@@ -1,2 +1,1 @@
-# angularapps
-Created new repo
+# Angular Apps
